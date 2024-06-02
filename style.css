@@ -28,20 +28,12 @@ section {
     width: 100%;
 }
 
-#photos {
-    background-color: #FFFF00; /* Żółty kafelek */
-    padding: 1rem;
-    border-radius: 25px;
-    text-align: center;
-    width: calc(100% - 2rem);
-    box-sizing: border-box;
-}
-
 #videos {
     background-color: #FFFF00; /* Żółty kafelek */
     padding: 1rem;
     border-radius: 25px;
     text-align: center;
+    margin: 1rem;
     width: calc(100% - 2rem);
     box-sizing: border-box;
 }
